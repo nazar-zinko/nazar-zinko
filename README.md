@@ -1,18 +1,18 @@
 <div align="center">
-  <a href="https://github.com/topdev70">
+  <a href="https://github.com/nazar-zinko">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=600&center=false&vCenter=true&lines=All+Day+I+Dream+About+Software(adidas)" alt="Typing SVG" />
   </a>
 </div> 
   
 
-👋 Hi there! I’m a Senior Full Stack Developer with over 12 years of experience in web development.
+👋 Hi there!
 
 💼 I specialize in:
 <br/>
 <br/>
-	•	Frontend: React | Angular | Vue | Next.js | Redux | RxJS | NgRx | NuxtJS | BootStrap | Material UI | Tailwind CSS | SASS/SCSS<br/>
+	•	Frontend: React | Next.js | Redux | React query/Tanstack | NuxtJS | BootStrap | Material UI | Tailwind CSS | SASS/SCSS<br/>
 	•	Backend: Node.js | Express.js | Python | C#/.NET | Java (Spring Boot) | Flask<br/>
-	•	Databases: MongoDB | PostgreSQL | MySQL | Firebase<br/>
+	•	Databases: Supabase | PostgreSQL | MySQL | Firebase<br/>
 	•	DevOps: AWS | Azure | GCP | Docker | CI/CD<br/>
 
 🚀 I love building clean, maintainable code and solving complex problems—from user-friendly UI design to robust backend architecture.
